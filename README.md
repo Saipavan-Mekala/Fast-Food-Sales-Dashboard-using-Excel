@@ -1,2 +1,2 @@
-# Customer-and-Revenue-Trends-Dashboard
-This repository contains files for a customer and revenue trends dashboard created in Excel, utilizing tools such as Power Query, Pivot Tables, and visualizations like Pivot Charts and Slicers.
+# Fast Food Sales Dashboard using Excel
+This repository contains files for a Fast Food Sales Dashboard created in Excel, utilizing tools such as Power Query, PivotTables, and visualizations like PivotCharts and Slicers.
